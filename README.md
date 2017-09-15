@@ -99,5 +99,5 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
    [df4]: <https://community.dynatrace.com/community/download/attachments/5144912/dynaTraceBSD.txt?version=3&modificationDate=1441261477160&api=v2>
    [df5] <https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/build/br.com.elosoft.teledyna_0.0.1.jar?raw=true>
    [df6] <https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/telegram.sh>
-   [df7] <fernando@elosoft.com.br>
-   [df7] <fernando.lewandowski@gmail.com>
+   [df7] <mailto:fernando@elosoft.com.br>
+   [df7] <mailto:fernando.lewandowski@gmail.com>
