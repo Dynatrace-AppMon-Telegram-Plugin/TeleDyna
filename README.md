@@ -1,11 +1,10 @@
-# TeleDyna
-Dynatrace AppMon Plugin
+# TeleDyna - Dynatrace AppMon Plugin
 
-[![N|Solid](http://www.elosoft.com.br/pt_br/img/elosoft-logo.png)](http://www.elosoft.com.br)
+[![N|Solid](assets/009.png)](http://www.telegram.org) | [![N|Solid](assets/011.png)](https://www.dynatrace.com/platform/offerings/application-monitoring/) | [![N|Solid](assets/010.png)](http://www.elosoft.com.br)
 
 ## Introduction
 
-Based on the SlackChat plugin, TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram]. Find further information in the [Dynatrace community][df1].
+Based on the [SlackChat plugin][]df2, TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram]. Find further information in the [Dynatrace community][df1].
 
 ## Special Thanks:
 
@@ -95,3 +94,4 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
  - Filter Options
 
    [df1]: <https://community.dynatrace.com/community/display/DL/Dynatrace-AppMon-Telegram-Plugin>
+   [df1]: <https://github.com/lewandowski/Dynatrace-AppMon-Slack-Integration-Plugin>
