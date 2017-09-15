@@ -1,13 +1,13 @@
 # TeleDyna
 Dynatrace AppMon Plugin
 
-[![N|Solid](http://www.elosoft.com.br/pt_br/img/elosoft-logo.png)](https://nodesource.com/products/nsolid)
+[![N|Solid](http://www.elosoft.com.br/pt_br/img/elosoft-logo.png)](http://www.elosoft.com.br)
 
 ## Introduction
 
-Based on the SlackChat plugin, TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with Telegram. Find further information in the Dynatrace community.
+Based on the SlackChat plugin, TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram]. Find further information in the [Dynatrace community][df1].
 
-Special Thanks:
+## Special Thanks:
 
 > https://github.com/fabianonline/telegram.sh
 >
@@ -94,5 +94,4 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
  - Proxy Support
  - Filter Options
 
-
-
+   [df1]: <https://community.dynatrace.com/community/display/DL/Dynatrace-AppMon-Telegram-Plugin>
