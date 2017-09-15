@@ -100,4 +100,4 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
    [df5] <https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/build/br.com.elosoft.teledyna_0.0.1.jar?raw=true>
    [df6] <https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/telegram.sh>
    [df7] <mailto:fernando@elosoft.com.br>
-   [df7] <mailto:fernando.lewandowski@gmail.com>
+   [df8] <mailto:fernando.lewandowski@gmail.com>
