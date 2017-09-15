@@ -60,7 +60,7 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
 
 Confirm plugin installation
 
-
+[![N|Solid](assets/001.png)](https://nodesource.com/products/nsolid)
 
 Inform the Token, Chat ID and directory where the telegram.sh shell is located (If in doubt, see Topic 3. Requirements). In this regard, you will not need to report again.
 
