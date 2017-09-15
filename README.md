@@ -17,7 +17,7 @@ Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrat
 | Plugin | README |
 | ------ | ------ |
 | Plug-In Files | dynaTrace 7 | [TeleDyna 0.0.1][df5] |
-| Author | Fernando Lewandowski Albuquerque [E-Mail 1][df7] | [E-mail 2][df8] |
+| Author | Fernando Lewandowski Albuquerque [E-Mail 1][df7] / [E-mail 2][df8] |
 | DynaTrace AppMon Versions | 7.x |
 | Operational System | Linux ubuntu 4.10.0-33-generic #37-Ubuntu SMP Fri Aug 11 10:55:28 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux |
 | License | [dynaTrace BSD][df4] |
