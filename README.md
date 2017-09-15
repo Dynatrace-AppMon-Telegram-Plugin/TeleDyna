@@ -17,7 +17,7 @@ Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrat
 | Plugin | README |
 | ------ | ------ |
 | Plug-In Files | dynaTrace 7 | [TeleDyna 0.0.1][df5] |
-| Author | Fernando Lewandowski Albuquerque (fernando@elosoft.com.br | fernando.lewandowski@gmail.com) |
+| Author | Fernando Lewandowski Albuquerque [E-Mail 1][df7] | [E-mail 2][df8] |
 | DynaTrace AppMon Versions | 7.x |
 | Operational System | Linux ubuntu 4.10.0-33-generic #37-Ubuntu SMP Fri Aug 11 10:55:28 UTC 2017 x86_64 x86_64 x86_64 GNU/Linux |
 | License | [dynaTrace BSD][df4] |
@@ -99,3 +99,5 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
    [df4]: <https://community.dynatrace.com/community/download/attachments/5144912/dynaTraceBSD.txt?version=3&modificationDate=1441261477160&api=v2>
    [df5] <https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/build/br.com.elosoft.teledyna_0.0.1.jar?raw=true>
    [df6] <https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/telegram.sh>
+   [df7] <fernando@elosoft.com.br>
+   [df7] <fernando.lewandowski@gmail.com>
