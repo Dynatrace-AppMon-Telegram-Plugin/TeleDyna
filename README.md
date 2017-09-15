@@ -1,6 +1,6 @@
 # TeleDyna - Dynatrace AppMon Plugin
 
-[![N|Solid](assets/009.jpg)](http://www.telegram.org) | [![N|Solid](assets/011.png)](https://www.dynatrace.com/platform/offerings/application-monitoring/) | [![N|Solid](assets/010.png)](http://www.elosoft.com.br)
+[![N|Solid](assets/009.jpg=100x20)](http://www.telegram.org) | [![N|Solid](assets/011.png=100x20)](https://www.dynatrace.com/platform/offerings/application-monitoring/) | [![N|Solid](assets/010.png=100x20)](http://www.elosoft.com.br)
 
 ## Introduction
 
