@@ -58,8 +58,6 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
 
 * Download the plugin in https://bitbucket.org/elosoft/teledyna/raw/23514411d6675f6b350012efca3560264964b257/build/br.com.elosoft.teledyna_0.0.1.jar 
 
-[![N|Solid](assets/1.png)]
-
 Confirm plugin installation
 
 
