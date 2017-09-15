@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram]. Find further information in the [Dynatrace community][df1].
+Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram][df7]. Find further information in the [Dynatrace community][df1].
 
 ## Special Thanks:
 
@@ -99,3 +99,4 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
    [df4]: <https://community.dynatrace.com/community/download/attachments/5144912/dynaTraceBSD.txt?version=3&modificationDate=1441261477160&api=v2>
    [df5]: <https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/build/br.com.elosoft.teledyna_0.0.1.jar?raw=true>
    [df6]: <https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/telegram.sh>
+   [df7]: <https://telegram.org/>
