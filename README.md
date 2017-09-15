@@ -58,49 +58,35 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
 
 * Download the plugin in https://bitbucket.org/elosoft/teledyna/raw/23514411d6675f6b350012efca3560264964b257/build/br.com.elosoft.teledyna_0.0.1.jar 
 
-Confirm plugin installation
+[![N|Solid](assets/001.png)](assets/001.png)
 
-[![N|Solid](assets/001.png)](https://nodesource.com/products/nsolid)
+* Confirm plugin installation
 
-Inform the Token, Chat ID and directory where the telegram.sh shell is located (If in doubt, see Topic 3. Requirements). In this regard, you will not need to report again.
+[![N|Solid](assets/002.png)](assets/002.png)
 
+* Inform the Token, Chat ID and directory where the telegram.sh shell is located (If in doubt, see Topic 3. Requirements). In this regard, you will not need to report again.
 
+[![N|Solid](assets/003.png)](assets/003.png)
 
-Elect an incident to be triggered with the TeleDyna plugin
+* Elect an incident to be triggered with the TeleDyna plugin
 
+[![N|Solid](assets/004.png)](assets/004.png)
 
+* Go to the "Actions"
 
+[![N|Solid](assets/005.png)](assets/005.png)
 
+* Choose the TeleDyna plugin. If the configuration has not been done in step 4.C, do so now, informing the Token, Chat ID and directory where the telegram.sh shell is located (If in doubt, see Topic 3. Requirements). Click "Add".
 
-Go to the "Actions"
+[![N|Solid](assets/006.png)](assets/006.png)
 
+* Click "OK"
 
+[![N|Solid](assets/007.png)](assets/007.png)
 
+* Once an incident is generated and has been previously configured with a TeleDyna action, a message will be sent to the indicated chat, as shown below:
 
-
-
-
-
-
-Choose the TeleDyna plugin. If the configuration has not been done in step 4.C, do so now, informing the Token, Chat ID and directory where the telegram.sh shell is located (If in doubt, see Topic 3. Requirements). Click "Add".
-
-
-
-
-
-
-
-
-Click "OK"
-
-
-
-
-
-
-
-
-Once an incident is generated and has been previously configured with a TeleDyna action, a message will be sent to the indicated chat, as shown below:
+[![N|Solid](assets/008.png)](assets/008.png)
 
 ## Todos
 
