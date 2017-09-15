@@ -94,4 +94,4 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
  - Filter Options
 
    [df1]: <https://community.dynatrace.com/community/display/DL/Dynatrace-AppMon-Telegram-Plugin>
-   [df1]: <https://github.com/lewandowski/Dynatrace-AppMon-Slack-Integration-Plugin>
+   [df2]: <https://github.com/lewandowski/Dynatrace-AppMon-Slack-Integration-Plugin>
