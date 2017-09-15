@@ -27,7 +27,10 @@ Special Thanks:
 
 ## Requirements
 
-- Only bash and curl. Listing known chats with -l requires jq, but you can easily use this tool without this (sudo apt-get install jq).
+- Only bash and curl. Listing known chats with -l requires jq, but you can easily use this tool without this.
+```sh
+$ sudo apt-get install jq
+```
 - Grab the latest telegram file from this repository and put it somewhere (https://bitbucket.org/elosoft/teledyna/raw/23514411d6675f6b350012efca3560264964b257/telegram.sh).
 - Give execution permission to the shell
 ```sh
