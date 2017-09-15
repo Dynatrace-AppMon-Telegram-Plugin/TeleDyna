@@ -1,8 +1,8 @@
 # TeleDyna - Dynatrace AppMon Plugin
 
 <img src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/009.jpg" alt="" data-canonical-src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/009.jpg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/011.jpg" alt="" data-canonical-src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/011.jpg" width="50" height="50" />
-<img src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/010.jpg" alt="" data-canonical-src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/010.jpg" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/011.png" alt="" data-canonical-src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/011.png" width="50" height="50" />
+<img src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/010.png" alt="" data-canonical-src="https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/assets/010.png" width="50" height="50" />
 
 ## Introduction
 
