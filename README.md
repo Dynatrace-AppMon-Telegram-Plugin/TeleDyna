@@ -1,8 +1,8 @@
 # TeleDyna - Dynatrace AppMon Plugin
 
-<img src="http://www.telegram.org" alt="" data-canonical-src="https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/assets/009.jpg" width="50" height="50" />
-<img src="https://www.dynatrace.com/platform/offerings/application-monitoring/" alt="" data-canonical-src="https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/assets/011.jpg" width="50" height="50" />
-<img src="http://www.elosoft.com.br" alt="" data-canonical-src="https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/assets/010.jpg" width="50" height="50" />
+<img src="http://www.telegram.org" alt="" data-canonical-src="https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/raw/master/assets/009.jpg" width="50" height="50" />
+<img src="https://www.dynatrace.com/platform/offerings/application-monitoring/" alt="" data-canonical-src="https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/raw/master/assets/011.jpg" width="50" height="50" />
+<img src="http://www.elosoft.com.br" alt="" data-canonical-src="https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/raw/master/assets/010.jpg" width="50" height="50" />
 
 ## Introduction
 
