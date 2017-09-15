@@ -16,7 +16,7 @@ Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrat
 
 | Plugin | README |
 | ------ | ------ |
-| Plug-In Files | dynaTrace 7: TeleDyna 0.0.1 |
+| Plug-In Files | dynaTrace 7 | [TeleDyna 0.0.1][df5] |
 | Author | Lewandowski Albuquerque (fernando@elosoft.com.br) |
 | DynaTrace AppMon Versions | 7.x |
 | License | [dynaTrace BSD][df4] |
@@ -29,7 +29,7 @@ Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrat
 ```sh
 $ sudo apt-get install jq
 ```
-- Grab the latest telegram file from this repository and put it somewhere (https://bitbucket.org/elosoft/teledyna/raw/23514411d6675f6b350012efca3560264964b257/telegram.sh).
+- Grab the latest telegram file from this repository and put it somewhere ([Telegram.sh][df6]).
 - Give execution permission to the shell
 ```sh
 $ chmod +x telegram.sh
@@ -54,7 +54,7 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
 
 ## Installation
 
-* Download the plugin in https://bitbucket.org/elosoft/teledyna/raw/23514411d6675f6b350012efca3560264964b257/build/br.com.elosoft.teledyna_0.0.1.jar 
+* Download the plugin in [TeleDyna 0.0.1][df5] 
 
 [![N|Solid](assets/001.png)](assets/001.png)
 
@@ -88,7 +88,7 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
 
 ## Todos
 
- - Write MORE Tests
+ - Write More Tests
  - Proxy Support
  - Filter Options
 
@@ -96,3 +96,5 @@ $ telegram -t <TOKEN> -c <CHAT ID> "Hello there."
    [df2]: <https://github.com/lewandowski/Dynatrace-AppMon-Slack-Integration-Plugin>
    [df3]: <https://community.dynatrace.com/community/display/DL/Support+Levels>
    [df4]: <https://community.dynatrace.com/community/download/attachments/5144912/dynaTraceBSD.txt?version=3&modificationDate=1441261477160&api=v2>
+   [df5] <https://github.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/blob/master/build/br.com.elosoft.teledyna_0.0.1.jar?raw=true>
+   [df6] <https://raw.githubusercontent.com/Dynatrace-AppMon-Telegram-Plugin/TeleDyna/master/telegram.sh>
