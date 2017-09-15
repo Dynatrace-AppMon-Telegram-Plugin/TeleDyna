@@ -4,7 +4,7 @@
 
 ## Introduction
 
-Based on the [SlackChat plugin][]df2, TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram]. Find further information in the [Dynatrace community][df1].
+Based on the [SlackChat plugin][df2], TeleDyna was created, a plugin to integrate the incidents of Dynatrace AppMon with [Telegram]. Find further information in the [Dynatrace community][df1].
 
 ## Special Thanks:
 
